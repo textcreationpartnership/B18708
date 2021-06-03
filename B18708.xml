@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The case of the refiners of sugar in England, stated.</title>
+         </titleStmt>
+         <extent>Approx. 12KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B18708</idno><idno type="EEBO-CITATION">99883429</idno>
+  <idno type="VID">186361</idno>
+  <idno type="EEBO-PROQUEST">2248518321</idno>
+  
+            <idno type="STC">Wing C1155A</idno>
+            <idno type="STC">Interim Tract Supplement Guide 816.m.13[165]</idno>
+            <idno type="STC">ESTC R206938</idno>
+            <idno type="STC">ESTC R225272</idno>
+            <idno type="STC">ESTC R225274</idno>
+            <idno type="PROQUEST">ocm99883429</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99883429e"/>
+            <note>(EEBO-TCP ; phase 2, no. B18708)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 186361)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C4:1[158])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The case of the refiners of sugar in England, stated.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>1671?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Publication date from Wing; Lpro copy found with items on the same topic from 1671.</note>
+                  <note>In this edition the first line of text ends: 'to'.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Sugar --  Manufacture and refining --  Early works to 1800.</term>
+               <term type="topical_term">Sugarcane industry --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  Colonies --  Economic conditions --  Early works to 1800.</term>
+               <term type="genre_form">Broadsides --  England --  London --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="case">
+            <pb facs="tcp:186361:1"/>
+            <pb facs="tcp:186361:2"/>
+            <head>THE CASE OF The Refiners of Sugar in England, Stated.</head>
+            <p>
+               <seg rend="decorInit">T</seg>He Refining of Sugar in <hi>England</hi> is an antient Manufacture, and according to the Incouragement it hath received from time to time, hath Grown up from Eight <hi>Refining-Houses,</hi> to near Thirty within this Twenty Years; and this chiefly by the increase of <hi>Brown Sugar</hi> from our own Plantations.</p>
+            <p>The Quantity of Plantation-Brown-Sugars used by the Refiners in <hi>England,</hi> may be modestly computed at 5000 Tuns <hi>annual<g ref="char:EOLhyphen"/>ly;</hi> Which adds considerably to his Majesties Revenue, and much Augments the <hi>English</hi> Navigation; besides the vast Expences that do unavoidably attend this chargeable Manufacture to the Kingdoms Advantage; and many Arts and Trades have likewise their sole Dependance thereon.</p>
+            <p>To discourage this Manufacture, will be Prejudicial to the Plantations in that their <hi>Brown-Sugars,</hi> which is the chief of their Pro<g ref="char:EOLhyphen"/>duce, not being spent by the <hi>Refiner,</hi> nor this Kingdom being able to spend them in kind, the Planter will not onely Lie at the mercy of the <hi>Forreigner</hi> as to a Market, but the Manufacture it self will be necessarily forced Abroad, there being a Reciprocal Affinity between the welfare of our Sugar-Plantations in <hi>America,</hi> and the Refining works in <hi>England.</hi>
+            </p>
+            <p>There is no way to Secure so considerable a Manufacture within this Kingdom, as by a due Proportioning of the several Rates of Sugar. Which humbly therefore we here offer, with the Reasons thereof Annexed.</p>
+            <div type="part">
+               <head>From the English Plantations.</head>
+               <p>
+                  <hi>Muscovadoes,</hi> commonly called Unpurged Sugar, at a Farthing <hi>per pound.</hi>
+               </p>
+               <p>
+                  <note place="margin">
+                     <hi>Anno 1669.</hi> Imported Brown Su<g ref="char:EOLhyphen"/>gars <hi>8338.</hi> Tuns. White Su<g ref="char:EOLhyphen"/>gar <hi>118.</hi> Tuns.</note>If this Commodity were yet Rated at a lower Proportion to the following Rates, it would undoubtedly the more encrease this Manufacture in this Kingdom, advance our Navigation, secure the Trade of our <hi>English</hi> Merchants to the Plantations, and indeed secure the Interest of Nineteen in Twenty of all the <hi>English-Planters;</hi> although it cannot be expected, but that a few <hi>Barbadoes</hi> White-Sugar-makers will be still unsatisfied.</p>
+            </div>
+            <div type="part">
+               <head>Sun-dried and Clayed Sugars, under the degree of White, at one Half-penny <hi>per pound.</hi>
+               </head>
+               <p>Wherein are comprehended Sugars at this time worth from Thirty Five, to Fifty Shillings <hi>per Cent.</hi> whereas the Brown-Sugars to be Manufactured by the <hi>Refiners</hi> in <hi>England</hi> are worth but 23 <hi>s. per Hundred.</hi> Which Duty will considerably advance his Majesties <hi>Revenue;</hi> And it is but equal They be so <hi>Rated,</hi> in regard of their Value, and that they are Imported fit for the <hi>Scale,</hi> and scarce over Exported.</p>
+            </div>
+            <div type="part">
+               <head>White Sugars, one Penny <hi>per Pound.</hi>
+               </head>
+               <p>From our Experience, we Assert, That three Pounds of Brown-Sugar as commonly Imported, will not produce one Pound of <hi>Refined</hi> Sugars: And in <hi>Bar<g ref="char:EOLhyphen"/>badoes</hi> it self, the usual Barter being three Pounds of Brown-Sugars, for one Pound of White; often more.</p>
+               <p>
+                  <note place="margin">More then dou<g ref="char:EOLhyphen"/>ble the number of Ships are required, to Import Sugars Brown, then if Clay'd and White.</note>Now considering, the Brown-Sugars are Manufactured in <hi>England,</hi> and many hundred Tuns of <hi>Syrups</hi> annually Exported, paying more than Five <hi>per Cent</hi> Custome unto the King upon Exportation by the Manufacturers thereof: And also several Duties, Taxes, and Excise are by them paid; it is evi<g ref="char:EOLhyphen"/>dent his Majesty receives more by Brown-Sugars at a Farthing, then by White at a Penny <hi>per Pound:</hi> Besides, the Importation of Brown-Sugars doth Vastly more increase our Navigation, than if it should be made White in our Plantations, and Imported afterwards,</p>
+            </div>
+            <div type="part">
+               <head>Brazile, and all Forreign Whites, at Three-Half-Pence <hi>per Pound</hi>
+               </head>
+               <p>Which will be some Curb to the <hi>Brazile</hi> Planters: But as to the English-man, who is a <hi>Portugal</hi> Merchant, he is still Capacitated to Export our Ma<g ref="char:EOLhyphen"/>nufacture, and to make his Returns in this, and other Commodities, as he hath been accustomed to do.</p>
+               <p>Besides, The Importation of <hi>White-Sugar</hi> is not so Essential to their <hi>Portugal</hi> Trade; For, if the Export of Commodities be so Vast as they assert, their Returns of Sugar are but a small part of their Trade. By the Entry at the <hi>Custome-House</hi> in the Year 1669, which is the greatest Import lately known, there appears but Seven Hundred and Five Tuns of <hi>White-Sugar</hi> Imported, and at their own Price of 56 <hi>s. per Cent,</hi> amounts to Thirty Nine Thousand Four Hundred and Eighty Pounds; which comes vastly short of what they carry out; for so many Ships as they affirm, are Employed to carry out <hi>Englands</hi> Manfactures in so great Quantities, cannot amount to less than between three and Four Hundred Thousand Pounds <hi>annually.</hi> So that their Sugar-Returns are not above a Tenth part of their Trade; Besides, as to the Manufacture of Refining in <hi>England;</hi> Two Sugar-Houses do work more by several Thou<g ref="char:EOLhyphen"/>sand Pounds Sterling <hi>annually,</hi> than the value of what they Import in Sugars; Which shews our Refining here is not so Inconsiderable as they Represent it. But indeed, should the present Duty in <hi>Portugal</hi> of the 25 <hi>per Cent</hi>
+                  <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> be taken off, (as some expect) Sugars may then be Imported to the utter Ru<g ref="char:EOLhyphen"/>ine both of the <hi>English</hi> Plantations Abroad, and of the Manufactures of Sugars within this Kingdom.</p>
+            </div>
+         </div>
+         <div type="answer_to_case">
+            <head>The CASE between the <hi>English-Sugar-Plantations,</hi> and the <hi>Refiners,</hi> by some of the <hi>Planters</hi> Stated: <hi>And by the Refiners Answered.</hi>
+            </head>
+            <p n="1">
+               <note place="margin">The Plan<g ref="char:EOLhyphen"/>ters Affirm.</note>I. TWo thirds of the Planters <gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>f the <hi>Sugar Collonies</hi> do turn into <hi>Whites,</hi> or <hi>Sun-dri'ds,</hi> all their Sugars they send to <hi>England</hi> for their own Accompts, to buy themselves Horses, Cloaths, Tooles, Provisions, Negroes, and other Neces<g ref="char:EOLhyphen"/>saries; by which alone they are enabled to subsist.</p>
+            <p>
+               <note place="margin">The Refi<g ref="char:EOLhyphen"/>ners Ans<g ref="char:EOLhyphen"/>wer.</note>
+               <hi>It appears by the Custome-House Books,</hi> Anno 1669. <hi>there was Entered</hi> 8338 <hi>Tuns of</hi> Muscovado <hi>Sugar, and but</hi> 118 <hi>Tuns of White, which is but a</hi> 70th <hi>part; whence it is evident their Assertion is either a vast mistake, or a very great abuse to the Kings Majesties Revenue; whereupon it doth also appear necessary, to make three Rates of Sugar, or else the same Abuse to his Majesties Revenue will still continue.</hi>
+            </p>
+            <p>
+               <note place="margin">The Plan<g ref="char:EOLhyphen"/>ters Affirm.</note>
+               <hi>Secondly,</hi> The other Third, who by reason of their <hi>Debts,</hi> or want of <hi>Stock,</hi> are not able to do this; do not bring both ends toge<g ref="char:EOLhyphen"/>gether; many are broken, and others have laid down their Trade.</p>
+            <p>
+               <note place="margin">
+                  <p>The Refi<g ref="char:EOLhyphen"/>ners Ans<g ref="char:EOLhyphen"/>wer.</p>
+                  <p>The Poor Brown Sugar Planters, they are con<g ref="char:EOLhyphen"/>fes'd to be the strength of the Colonies, there<g ref="char:EOLhyphen"/>fore to assert them but one third part of the Colonies, is an evident contradiction.</p>
+               </note>
+               <hi>In the middle of the Planters paper they assert, that the poorer sort of</hi> English <hi>Planters are the strength of the Collonies,</hi> We answer, <hi>tis undoubtedly true. Therefore they ought to have all possible Encouragement in their making of</hi> Muscovado Sugar; <hi>And nothing can more contribute to their Ruin, than to Impose as much upon</hi> Musco<g ref="char:EOLhyphen"/>vado Sugars <hi>that are worth but</hi> 23. per cent. <hi>as upon Sun-dri'd, and clay'd Sugars worth from</hi> 35. s. <hi>to</hi> 50. s. per cent.</p>
+            <p>
+               <hi>Thirdly,</hi> Two pound of Brown Sugar will make one pound of good White; as by experience is found: If white Sugars from the <hi>Plantations</hi> be Taxed one penny, and Brown one Farthing, then is the Refiner able to supply the Market with white Sugar, at a half-penny a pound less Imposition than the Planter, which will beat him out of the white Sugar Trade, and undoe him; and his Majesty will come to have no more for this Duty, than if there were but a half-penny the pound first set upon the white Sugar of the <hi>Planta<g ref="char:EOLhyphen"/>tions:</hi> So that the Question here will be, not whether his Majesties Revenue shall be increased, by setting a penny <hi>per</hi> pound upon the white Sugars of the <hi>Plantations,</hi> (for it is plainly shewed it will not,) but whether a few Refiners shall by Ingrosing that Trade be Enriched,<note place="margin">The Plan<g ref="char:EOLhyphen"/>ters Affirm.</note> and the <hi>Plantations</hi> undone? There being not above Twelve <hi>Refining-Houses</hi> in all <hi>England,</hi> and yet those enough to melt down all the <hi>Brown Sugars</hi> that come from the <hi>Plantations.</hi>
+            </p>
+            <p>
+               <hi>As brown Sugars are Imported from the</hi> Barbadoes, <hi>Three pounds of</hi> Muscovados <hi>will not make one pound of</hi> Refin'd Sugar, <hi>(as may be attested upon Oath by unconcern'd Persons) as also considering many Duties paid by the Home Manufacturer,</hi>
+               <note place="margin">The Refi<g ref="char:EOLhyphen"/>ners Ans<g ref="char:EOLhyphen"/>wer.</note>
+               <hi>(as is above asserted) his Majesties Receives above a penny a pound upon all</hi> Refin'd Sugars <hi>made in</hi> England: <hi>But whatever less than a penny, is laid upon</hi> White Sugars <hi>Imported, is a proportionable Dis<g ref="char:EOLhyphen"/>couragement to the Manufacture here, and Loss to his Majesties Revenue. And whereas they assert, there is but Twelve</hi> Refining-Houses <hi>in all</hi> England, <hi>there is above double the number. And no</hi> English-man <hi>is abridg'd the setting up of more</hi> Sugar-works.</p>
+            <p>
+               <hi>Fourthly,</hi> The <hi>English</hi> Planters being beaten Out of the White Sugar Trade, a few Refiners will engrose it, and being the only Buyers of <hi>Brown Sugar,</hi>
+               <note place="margin">The Planters Affirm.</note> well set what rate they please upon them, which will be the utter undoing, &amp; loss of the <hi>Sugar Colonies,</hi> not one third of the Planters reaping any profit over and above the charge from their Plantations already; and then the Refiners Trade will be at an end also.</p>
+            <p>
+               <note place="margin">The Refi<g ref="char:EOLhyphen"/>ners Ans<g ref="char:EOLhyphen"/>wer.</note>
+               <hi>Refining in</hi> England, <hi>and Planting in</hi> America, <hi>do reciprocally advance each other, and it is utterly Impossible, that ever the</hi> English Refiners <hi>can Ingross the</hi> Brown Sugar, <hi>and thereby set what Rate they please upon them (as they assert) There being</hi> 60. <hi>Sugars-houses at</hi> Amsterdam, <hi>and</hi> 40. <hi>at</hi> Hamborough; <hi>besides several others in</hi> Holland, Zeland, <hi>and</hi> Flanders, <hi>who at present buy at least one third of the</hi> Brown Sugars <hi>Imported, and will have them above twelve</hi> per cent. <hi>cheaper, the (Excise considered) than the</hi> English <hi>Refiner can.</hi>
+            </p>
+            <p>IN CONCLUSION, <hi>By how much the Manufactury of White and Clay'd Sugars, shall be more Encourag'd in</hi> America, <hi>than in</hi> England, <hi>by so much the more the poor Brown-Sugar Planters there will be Discourag'd,</hi> Englands <hi>Navagation Decreas'd, his Majesties Revenue Impair'd, Our home Manufacture lesned, and consequently Our Lands in</hi> England <hi>Ʋnder-vallued.</hi>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>
